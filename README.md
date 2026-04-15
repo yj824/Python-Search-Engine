@@ -53,8 +53,3 @@ The search engine:
 - Pickle
 - Regular Expressions
 
-## How to Run
-
-### 1. Install dependencies
-```bash
-pip install beautifulsoup4 lxml nltk
